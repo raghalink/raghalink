@@ -29,7 +29,7 @@ End-to-end analytics pipeline using Python, dbt, PostgreSQL, and Power BI.
 ---
 
 ### 🛒 Retail Analytics Engineering Pipeline (Instacart)
-PostgreSQL-centric analytics warehouse (3M+ rows) with SQL semantic layer and Power BI DirectQuery.
+PostgreSQL-centric analytics warehouse (3M+ rows) with SQL semantic layer and Power BI (DirectQuery).
 
 - Business KPIs implemented directly in SQL  
 - Heavy use of views & materialized views for performance  
