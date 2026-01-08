@@ -1,5 +1,5 @@
-## Hi there 👋
-Hi, I’m Ragha 👋  
+## Hi there, I’m Ragha and welcome to my portfoliio 👋
+
 Analytics Engineer / Data Analyst focused on SQL-first, production-style analytics pipelines.
 I design analytics systems that turn raw data into decision-ready insights.
 
@@ -20,9 +20,9 @@ I design analytics systems that turn raw data into decision-ready insights.
 ### 📊 Rossmann Analytics Engineering (dbt)
 End-to-end analytics pipeline using Python, dbt, PostgreSQL, and Power BI.
 
-- Deterministic data cleaning in Python  
+- Deterministic data cleaning and ETL in Python  
 - dbt modeling with tests, lineage, and marts  
-- BI dashboards built directly on dbt outputs  
+- BI dashboards built directly on dbt marts  
 
 🔗 Repo: https://github.com/raghalink/dbt_rossmann_anayltics
 
@@ -31,8 +31,9 @@ End-to-end analytics pipeline using Python, dbt, PostgreSQL, and Power BI.
 ### 🛒 Retail Analytics Engineering Pipeline (Instacart)
 PostgreSQL-centric analytics warehouse (3M+ rows) with SQL semantic layer and Power BI (DirectQuery).
 
-- Business KPIs implemented directly in SQL  
-- Heavy use of views & materialized views for performance  
+- Business KPIs implemented directly in SQL
+- Heavy use of views & materialized views for performance
+- BI dashboards implemented using DirectQuery for   
 - dbt added as a documentation & modeling layer  
 
 🔗 Repo: https://github.com/raghalink/Retail_Analytics_Engineering_Pipeline
