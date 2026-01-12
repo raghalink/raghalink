@@ -4,7 +4,7 @@ Analytics Engineer / Data Analyst focused on SQL-first, production-style analyti
 I design analytics systems that turn raw data into decision-ready insights.
 
 - Python (EDA,ETL)
-- analytics engineering (PostgreSQL, views, materialized views)
+- Analytics engineering (PostgreSQL, views, materialized views)
 - dbt modeling (staging → intermediate → marts, tests, lineage)
 - BI dashboards built on strong semantic models (Power BI, DAX, DirectQuery)
 - End-to-end ownership: ingestion → modeling → analytics → dashboards
@@ -15,7 +15,7 @@ I design analytics systems that turn raw data into decision-ready insights.
 - Prefer database-first transformations over BI-layer logic  
 - Treat analytics like software: versioning, testing, documentation  
 - Optimize for clarity, performance, and stakeholder trust  
-- Build systems that are explainable, not just impressive
+- Build systems that are explainable, maintanable and scalable.
 
 ## Featured Projects
 
