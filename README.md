@@ -1,12 +1,14 @@
-## Hi there, I’m Ragha and welcome to my portfoliio 👋
+## Hi there, I’m Ragha and welcome to my portfolio 👋
 
 Analytics Engineer / Data Analyst focused on SQL-first, production-style analytics pipelines.
 I design analytics systems that turn raw data into decision-ready insights.
 
-- first analytics engineering (PostgreSQL, views, materialized views)
+- Python (EDA,ETL)
+- analytics engineering (PostgreSQL, views, materialized views)
 - dbt modeling (staging → intermediate → marts, tests, lineage)
 - BI dashboards built on strong semantic models (Power BI, DAX, DirectQuery)
 - End-to-end ownership: ingestion → modeling → analytics → dashboards
+- Git (documentation and version control)
 
 ## How I work
 
