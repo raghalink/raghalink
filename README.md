@@ -3,22 +3,23 @@
 Analytics Engineer / Data Analyst with a strong focus on SQL-first, production-style analytics pipelines.I design database-centric analytics systems that turn raw data into trusted, decision-ready insights.
 
 - Python (EDA,ETL)
-- Analytics engineering (PostgreSQL, views, materialized views)
+- Analytics engineering (PostgreSQL, SQL views, and materialized views)
 - dbt modeling (staging → intermediate → marts, tests, lineage)
-- BI dashboards built on strong semantic models (Power BI, DAX, DirectQuery)
+- BI dashboards built on strong semantic layers (Power BI, DAX, and DirectQuery)
 - End-to-end ownership: ingestion → modeling → analytics → dashboards
 - Git (documentation and version control)
 
 ## How I work
 
 - Prefer database-first transformations over BI-layer logic  
-- Treat analytics like software: versioning, testing, documentation  
+- Treat analytics like software: versioning, testing, and documentation  
 - Optimize for clarity, performance, and stakeholder trust  
 - Build systems that are explainable, maintanable and scalable.
 
 ## Featured Projects
 
 ### 📊 Rossmann Analytics Engineering (dbt)
+Simulates a production-grade analytics workflow with clear separation of ingestion, modeling, and BI.
 End-to-end analytics pipeline using Python, dbt, PostgreSQL, and Power BI.
 
 - Deterministic data cleaning and ETL in Python  
@@ -30,6 +31,7 @@ End-to-end analytics pipeline using Python, dbt, PostgreSQL, and Power BI.
 ---
 
 ### 🛒 Retail Analytics Engineering Pipeline (Instacart)
+Demonstrates a database-first analytics architecture optimized for performance and scale.
 PostgreSQL-centric analytics warehouse (3M+ rows) with SQL semantic layer and Power BI (DirectQuery).
 
 - Business KPIs implemented directly in SQL
