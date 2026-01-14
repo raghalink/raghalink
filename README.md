@@ -1,7 +1,6 @@
 ## Hi there, I’m Ragha and welcome to my portfolio 👋
 
-Analytics Engineer / Data Analyst focused on SQL-first, production-style analytics pipelines.
-I design analytics systems that turn raw data into decision-ready insights.
+Analytics Engineer / Data Analyst with a strong focus on SQL-first, production-style analytics pipelines.I design database-centric analytics systems that turn raw data into trusted, decision-ready insights.
 
 - Python (EDA,ETL)
 - Analytics engineering (PostgreSQL, views, materialized views)
