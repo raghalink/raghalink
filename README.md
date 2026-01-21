@@ -1,18 +1,18 @@
 ## Hi there, I’m Ragha and welcome to my portfolio 👋
 
-Analytics Engineer / Data Analyst with a strong focus on SQL-first, production-style analytics pipelines.I design database-centric analytics systems that turn raw data into trusted, decision-ready insights across cloud data warehouse and BI tools.
+Analytics Engineer / Data Analyst with a strong focus on SQL-first, production-style analytics pipelines using both ETL and ELT approaches, depending on system constraints. I design database-centric analytics systems that turn raw data into trusted, decision-ready insights across cloud data warehouse and BI tools.
 
-- Python (EDA,ETL)
-- Analytics engineering (PostgreSQL, Snowflake, SQL views, and materialized views)
-- dbt modeling (staging → intermediate → marts, tests, lineage)
+- Python (EDA, data cleaning, batch processing, reusable modules)
+- Analytics engineering (Snowflake, PostgreSQL, SQL views, and materialized views)
+- dbt modeling (staging → intermediate → marts, incremental models, tests, lineage)
 - BI dashboards built on strong semantic layers (Power BI, DAX, and DirectQuery)
 - End-to-end ownership: ingestion → modeling → analytics → dashboards
 - Git (documentation and version control)
 
 ## How I work
 
-- Prefer database-first transformations over BI-layer logic  
-- Treat analytics like software: versioning, testing, and documentation  
+- Prefer database-first transformations, choosing ETL or ELT baesd on data volume, performance, and system constraints. 
+- Treat analytics like software: versioning, testing, and documentation.  
 - Optimize for clarity, performance, and stakeholder trust  
 - Build systems that are explainable, maintanable and scalable.
 - Prefer database first transformations across on prem and cloud warehouses.
