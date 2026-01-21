@@ -61,6 +61,6 @@ End-to-end, cloud-native marketing analytics pipeline focused on incremental pro
 🔗 Repo: https://github.com/raghalink/Marketing_Analytics_Engineering_Pipeline
 
 📍 Berlin, Germany  
-🧠 Open to Junior Analytics Engineer / BI / Data Analyst roles  
+🧠 Open to Analytics Engineer / BI / Data Analyst roles  
 🔗 LinkedIn: <https://www.linkedin.com/in/raghavendraprasad9/>
 
