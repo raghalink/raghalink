@@ -11,10 +11,10 @@ Analytics Engineer / Data Analyst with a strong focus on SQL-first, production-s
 
 ## How I work
 
-- Prefer database-first transformations, choosing ETL or ELT baesd on data volume, performance, and system constraints. 
+- Prefer database-first transformations, choosing ETL or ELT based on data volume, performance, and system constraints. 
 - Treat analytics like software: versioning, testing, and documentation.  
 - Optimize for clarity, performance, and stakeholder trust  
-- Build systems that are explainable, maintanable and scalable.
+- Build systems that are explainable, maintainable and scalable.
 - Prefer database first transformations across on prem and cloud warehouses.
 
 ## Featured Projects
