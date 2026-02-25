@@ -1,34 +1,38 @@
 ## Hi there, I’m Ragha and welcome to my portfolio 👋
 
-Analytics Engineer / Data Analyst with a strong focus on SQL-first, production-style analytics pipelines using both ETL and ELT approaches, depending on system constraints. I design database-centric analytics systems that turn raw data into trusted, decision-ready insights across cloud data warehouse and BI tools.
+Data professional focused on buulding reliable analytics systems, BI reporting layers, and experimentation workflows.
 
-- Python (EDA, data cleaning, batch processing, reusable modules)
-- Analytics engineering (Snowflake, PostgreSQL, SQL views, and materialized views)
-- dbt modeling (staging → intermediate → marts, incremental models, tests, lineage)
-- BI dashboards built on strong semantic layers (Power BI, DAX, and DirectQuery)
+I design end-to-end workflows that move from raw data to structured modeling, statistical 
+analysis, and stakeholder-ready dashboards — across both on-prem and cloud data warehouses.
+
+- Python (EDA, data validation, data cleaning reusable modules)
+- Analytics engineering (Snowflake, PostgreSQL, SQL views & materialized views)
+- dbt modeling (staging → intermediate → marts, testing, lineage, incremental models)
+- BI dashboards built on strong semantic layers (Power BI, DAX, & DirectQuery)
+- Experimentation workflows (A/B tsting, guardrails, decision thresholds)
 - End-to-end ownership: ingestion → modeling → analytics → dashboards
-- Git (documentation and version control)
+- Git based documentation & version control
 
 ## How I work
 
-- Prefer database-first transformations, choosing ETL or ELT based on data volume, performance, and system constraints. 
-- Treat analytics like software: versioning, testing, and documentation.  
-- Optimize for clarity, performance, and stakeholder trust  
+- Prefer database-first transformations, choosing ETL or ELT based on data scale.
+- Treat analytics like software: versioning, testing, and reproducibility matter.  
+- Optimize for clarity, performance, and trust.
 - Build systems that are explainable, maintainable and scalable.
-- Prefer database first transformations across on prem and cloud warehouses.
+
 
 ## Featured Projects
 
 ### 🛒 Retail Analytics Engineering Pipeline (Instacart)
-Demonstrates a database-first analytics architecture optimized for performance and scale.
-PostgreSQL-centric analytics warehouse (3M+ rows) with SQL semantic layer and Power BI (DirectQuery).
+Production-style PostgreSQL analytics warehouse (3M+ rows) with a SQL semantic layer and live 
+Power BI dashboards via DirectQuery.
 
-#### Techstack: Python · PostgreSQL · Power BI 
+#### Techstack: Python · PostgreSQL · Power BI · dbt
 
-- Business KPIs implemented directly in SQL
-- Heavy use of views & materialized views for performance
-- BI dashboards implemented using DirectQuery for   
-- dbt added as a documentation & modeling layer  
+- Core KPIs implemented directly in SQL views and materialized views
+- Performance optimiyed via indexing and pre-aggregation
+- DirectQuery dashboards consuming database-layer metrics
+- dbt used to replicated modeling layers and generate lineage documentation
 
 🔗 Repo: https://github.com/raghalink/Retail_Analytics_Engineering_Pipeline
 
@@ -37,7 +41,6 @@ PostgreSQL-centric analytics warehouse (3M+ rows) with SQL semantic layer and Po
 ### 🚀 Incrementality Lab – Growth Experimentation
 
 Simulates how a product or growth team evaluates whether an A/B test should be rolled out.
-
 Built a structured experimentation workflow with validity checks, guardrails, and practical impact thresholds to support real deployment decisions.
 
 #### Techstack: Snowflake · dbt · Snowpark Python · Power BI
@@ -52,24 +55,25 @@ Built a structured experimentation workflow with validity checks, guardrails, an
 ---
 
 ### 📊 Rossmann Analytics Engineering (dbt)
-Simulates a production-grade analytics workflow with clear separation of ingestion, modeling, and BI.
+End-to-end analytics workflow from raw ingestion throuhg deterministic cleaning and layered warehouse modeling.
 
 #### Techstack: Python · dbt · PostgreSQL · Power BI.
 
-- Deterministic data cleaning and ETL in Python  
-- dbt modeling with tests, lineage, and marts  
-- BI dashboards built directly on dbt marts  
+- Deterministic ETL in Python with validation checks
+- dbt layered modeling (staging -> intermediate -> marts)
+- Business tests and lineage documentation
+- Power BI dashboards built on curated dbt marts
 
 🔗 Repo: https://github.com/raghalink/dbt_rossmann_anayltics
 
 ---
 
 ### ❄️ Marketing Analytics Engineering Pipeline 
-End-to-end, cloud-native marketing analytics pipeline focused on incremental processing, clean modeling, and attribution-aware analysis.
+End-to-end, Cloud-native marketing analytics workflow focused on incremental processing, clean modeling, and attribution-aware modeling.
 
 #### Tech: Python · Snowflake · dbt · Power BI
 
-- Single raw attribution dataset ingested incrementally into Snowflake (ELT)
+- Incremental ingestion into Snowflake (ELT)
 - Python used for EDA, sanity checks, and batch preparation (no business logic)
 - dbt models produce BI-ready daily marts (campaign and overall performance)
 - Incremental correctness validated via SQL tests (no duplicates, append behavior)
@@ -78,6 +82,6 @@ End-to-end, cloud-native marketing analytics pipeline focused on incremental pro
 🔗 Repo: https://github.com/raghalink/Marketing_Analytics_Engineering_Pipeline
 
 📍 Berlin, Germany  
-🧠 Open to Analytics Engineer / BI / Data Analyst roles  
+🧠 Open to Analytics Engineer / BI / Data Analyst roles / Product Analytics roles  
 🔗 LinkedIn: <https://www.linkedin.com/in/raghavendraprasad9/>
 
