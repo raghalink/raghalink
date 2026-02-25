@@ -34,6 +34,23 @@ PostgreSQL-centric analytics warehouse (3M+ rows) with SQL semantic layer and Po
 
 ---
 
+### 🚀 Incrementality Lab – Growth Experimentation
+
+Simulates how a product or growth team evaluates whether an A/B test should be rolled out.
+
+Built a structured experimentation workflow with validity checks, guardrails, and practical impact thresholds to support real deployment decisions.
+
+#### Techstack: Snowflake · dbt · Snowpark Python · Power BI
+
+* Modeled experiment population and KPIs in dbt
+* Implemented rollout decision logic with confidence thresholds
+* Added guardrail protection for engagement metrics
+* Built a two-page dashboard for decision and segment analysis
+
+🔗 Repo: [https://github.com/raghalink/Incrementality-Lab](https://github.com/raghalink/Incrementality-Lab)
+
+---
+
 ### 📊 Rossmann Analytics Engineering (dbt)
 Simulates a production-grade analytics workflow with clear separation of ingestion, modeling, and BI.
 
